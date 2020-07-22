@@ -27,13 +27,13 @@
     <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
 	<dependency>
     	<groupId>com.vijay</groupId>
-    	<artifactId>log4j-core</artifactId>
+    	<artifactId>exception</artifactId>
     	<version>2.12.1</version>
 	</dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
 	<dependency>
     	<groupId>com.vijay</groupId>
-    	<artifactId>log4j-api</artifactId>
+    	<artifactId>exception</artifactId>
     	<version>2.12.1</version>
 	</dependency>    
   </dependencies>
